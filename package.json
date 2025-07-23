@@ -17,5 +17,8 @@
     "url": "https://github.com/Surajruu/my-portfolio-node/issues"
   },
   "homepage": "https://github.com/Surajruu/my-portfolio-node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
